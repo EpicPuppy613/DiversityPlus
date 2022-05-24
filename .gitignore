@@ -6,3 +6,4 @@ advancements/
 stats/
 *_old
 session.lock
+*node_modules/

@@ -1,0 +1,11 @@
+{
+  "name": "sigma-branch",
+  "version": "0.1.0",
+  "description": "Branch creation helper for sigma plus",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "EpicPuppy613",
+  "license": "ISC"
+}
