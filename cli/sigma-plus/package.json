@@ -1,16 +1,20 @@
 {
   "name": "sigma-plus",
-  "version": "0.1.0",
+  "version": "0.1.6",
   "description": "A community driven modular minecraft map",
   "main": "index.js",
-  "bin": {
-    "sigma-plus": "bin/index.js"
-  },
+  "bin": "index.js",
   "author": "EpicPuppy613",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.2",
     "git-clone": "^0.2.0",
     "readline-sync": "^1.4.10"
-  }
+  },
+  "keywords": [
+    "cli",
+    "minecraft",
+    "map",
+    "game"
+  ]
 }
