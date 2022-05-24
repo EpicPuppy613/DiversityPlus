@@ -1,4 +1,4 @@
-# DiversityPlus
+# Sigma+
 A map, not a map, but it builds itself through the community
 
 A map, but also a maploader
